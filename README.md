@@ -15,4 +15,4 @@ Tooling: Providing engineers working on inference with the right level of abstra
 These three layers must work together to create a system that can handle mission-critical inference at scale.”
 
 An overview of the Inference Engineering:
-/var/folders/qc/qjj6_fd94hzdxtyclbzc0w2r0000gn/T/TemporaryItems/NSIRD_screencaptureui_Uqity6/Screenshot 2026-10-21 at 1.55.01 PM.png
+![Overview of Inference Engineering](InferenceEngineering.png)
